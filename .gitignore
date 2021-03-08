@@ -1,0 +1,25 @@
+*.iml
+*.gradle/
+/local.properties
+*.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Project exclude paths
+/beautysettingkit/build/
+/beautysettingkit/build/intermediates/javac/debug/classes/
+/debug/build/
+/debug/build/intermediates/javac/debug/classes/
+/login/build/
+/login/build/intermediates/javac/debug/classes/
+/trtccallingdemo/build/
+/trtccallingdemo/build/intermediates/javac/debug/classes/
+/trtcliveroomdemo/build/
+/trtcliveroomdemo/build/intermediates/javac/debug/classes/
+/trtcmeetingdemo/build/
+/trtcmeetingdemo/build/intermediates/javac/debug/classes/
+/trtcvoiceroomdemo/build/
+/trtcvoiceroomdemo/build/intermediates/javac/debug/classes/
